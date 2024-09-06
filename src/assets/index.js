@@ -8,6 +8,6 @@ export {
     linkIcon,
     loader,
     copy,
-    logo,
+    logo ,
     tick
 }
